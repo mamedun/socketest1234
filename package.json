@@ -4,8 +4,7 @@
 "description": "An example of a simple Node.js and Express.js RESTful API",
 "main": "app.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "mocha --reporter tap"
+    "start": "node index.js"
   },
 "keywords": [],
 "author": "Riki Kurnia",
