@@ -5,6 +5,4 @@ var app = express()
 app.get('/', function (req, res) {
   res.send('hello Riki')
 })
-app.get('/mamed', function (req, res) {
-  res.send('hello juga Riki')
-})
+
