@@ -1,3 +1,4 @@
+/*
 var express = require('express');  // poziva express iz node_modules
 var app = express();  // označava da naša aplikacija koristi express
 var mysql = require('mysql');  // poziva mysql iz node_modules
@@ -157,3 +158,5 @@ app.use('/api', apiRoutes);
 // pokretanje API-ja
 app.listen(port);
 console.log('API je pokrenut i koristi port:' + ' ' + port);
+
+*/
